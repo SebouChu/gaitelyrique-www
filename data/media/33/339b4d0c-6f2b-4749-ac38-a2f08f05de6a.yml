@@ -5,7 +5,7 @@ width: 2048
 height: 1365
 ratio: 1.5003663003663004
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMzOWI0ZDBjLTZmMmItNDc0OS1hYzM4LWEyZjA4ZjA1ZGU2YSIsInB1ciI6ImJsb2JfaWQifX0=--e4de2f1ddca8bbd3da69860a5f4cf793480e9f3b/salleimmersive5.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/5exckmugxe8hwms4kdjrjco1hoii
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjMzOWI0ZDBjLTZmMmItNDc0OS1hYzM4LWEyZjA4ZjA1ZGU2YSIsInB1ciI6ImJsb2JfaWQifX0=--e4de2f1ddca8bbd3da69860a5f4cf793480e9f3b
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMzOWI0ZDBjLTZmMmItNDc0OS1hYzM4LWEyZjA4ZjA1ZGU2YSIsInB1ciI6ImJsb2JfaWQifX0=--40b7132cad10df14b5f6faf0589c31f23635d35e/salleimmersive5.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/5exckmugxe8hwms4kdjrjco1hoii
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjMzOWI0ZDBjLTZmMmItNDc0OS1hYzM4LWEyZjA4ZjA1ZGU2YSIsInB1ciI6ImJsb2JfaWQifX0=--40b7132cad10df14b5f6faf0589c31f23635d35e
 
