@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJjOWQwNGJlLWU4NTAtNGM5Yy1hOTk1LTVhZTY2ZjRiZTc5ZCIsInB1ciI6ImJsb2JfaWQifX0=--9404c5dca273a960535ce0b66b83ea0d63a90522/site-1664-event-gaite-lyrique-paris-120204-12022024-xap5697-hdr_cover.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ah1e4j9oueio17jzjl0jz43djlij
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImJjOWQwNGJlLWU4NTAtNGM5Yy1hOTk1LTVhZTY2ZjRiZTc5ZCIsInB1ciI6ImJsb2JfaWQifX0=--9404c5dca273a960535ce0b66b83ea0d63a90522
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJjOWQwNGJlLWU4NTAtNGM5Yy1hOTk1LTVhZTY2ZjRiZTc5ZCIsInB1ciI6ImJsb2JfaWQifX0=--62812d06da3e2ee19f5dc2b4cd4843d5a6329bc5/site-1664-event-gaite-lyrique-paris-120204-12022024-xap5697-hdr_cover.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ah1e4j9oueio17jzjl0jz43djlij
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImJjOWQwNGJlLWU4NTAtNGM5Yy1hOTk1LTVhZTY2ZjRiZTc5ZCIsInB1ciI6ImJsb2JfaWQifX0=--62812d06da3e2ee19f5dc2b4cd4843d5a6329bc5
 
