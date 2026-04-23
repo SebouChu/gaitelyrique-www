@@ -5,7 +5,7 @@ width: 6720
 height: 4480
 ratio: 1.5
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4YzI2ZDMwLTMwZTAtNGY3NS04NTBkLTIyMjYwZTQ3YjU5NSIsInB1ciI6ImJsb2JfaWQifX0=--526976775030d3141e4ae8868ca1c746f68d1d45/Culture-SIPA-153.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/5ahpso0gqwjug66j7157wh2bxe51
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4YzI2ZDMwLTMwZTAtNGY3NS04NTBkLTIyMjYwZTQ3YjU5NSIsInB1ciI6ImJsb2JfaWQifX0=--526976775030d3141e4ae8868ca1c746f68d1d45
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4YzI2ZDMwLTMwZTAtNGY3NS04NTBkLTIyMjYwZTQ3YjU5NSIsInB1ciI6ImJsb2JfaWQifX0=--be046d001f56546e58b1c9cbb6934ebdfed008f7/Culture-SIPA-153.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/5ahpso0gqwjug66j7157wh2bxe51
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4YzI2ZDMwLTMwZTAtNGY3NS04NTBkLTIyMjYwZTQ3YjU5NSIsInB1ciI6ImJsb2JfaWQifX0=--be046d001f56546e58b1c9cbb6934ebdfed008f7
 

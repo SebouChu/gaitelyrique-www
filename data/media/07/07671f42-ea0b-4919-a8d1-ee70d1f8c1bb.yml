@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA3NjcxZjQyLWVhMGItNDkxOS1hOGQxLWVlNzBkMWY4YzFiYiIsInB1ciI6ImJsb2JfaWQifX0=--a2e095aad443bd8e87e2012d984690429747b1dd/Histoire-du-lieu_Ava-du-Parc.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/rqd3bbkotn3uj2utstx6gb5pn82y
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjA3NjcxZjQyLWVhMGItNDkxOS1hOGQxLWVlNzBkMWY4YzFiYiIsInB1ciI6ImJsb2JfaWQifX0=--a2e095aad443bd8e87e2012d984690429747b1dd
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA3NjcxZjQyLWVhMGItNDkxOS1hOGQxLWVlNzBkMWY4YzFiYiIsInB1ciI6ImJsb2JfaWQifX0=--5debadca800f442d93035b406c9141c973939c59/Histoire-du-lieu_Ava-du-Parc.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/rqd3bbkotn3uj2utstx6gb5pn82y
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjA3NjcxZjQyLWVhMGItNDkxOS1hOGQxLWVlNzBkMWY4YzFiYiIsInB1ciI6ImJsb2JfaWQifX0=--5debadca800f442d93035b406c9141c973939c59
 

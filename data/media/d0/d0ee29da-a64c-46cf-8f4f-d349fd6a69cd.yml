@@ -5,7 +5,7 @@ width: 1280
 height: 854
 ratio: 1.4988290398126465
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwZWUyOWRhLWE2NGMtNDZjZi04ZjRmLWQzNDlmZDZhNjljZCIsInB1ciI6ImJsb2JfaWQifX0=--de6a161e2948cb8cb6b4cb710c0ed4bd8551efa9/Capture-d-ecran-2025-02-06-a-11-36-46.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/i5su6zt56u2g4p41aui8r37o2yzs
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQwZWUyOWRhLWE2NGMtNDZjZi04ZjRmLWQzNDlmZDZhNjljZCIsInB1ciI6ImJsb2JfaWQifX0=--de6a161e2948cb8cb6b4cb710c0ed4bd8551efa9
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwZWUyOWRhLWE2NGMtNDZjZi04ZjRmLWQzNDlmZDZhNjljZCIsInB1ciI6ImJsb2JfaWQifX0=--274cca4477826c4625279365b9826f0b8fb9dc20/Capture-d-ecran-2025-02-06-a-11-36-46.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/i5su6zt56u2g4p41aui8r37o2yzs
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQwZWUyOWRhLWE2NGMtNDZjZi04ZjRmLWQzNDlmZDZhNjljZCIsInB1ciI6ImJsb2JfaWQifX0=--274cca4477826c4625279365b9826f0b8fb9dc20
 
