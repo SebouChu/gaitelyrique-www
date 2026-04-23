@@ -5,7 +5,7 @@ width: 500
 height: 500
 ratio: 1.0
 format: square
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdmOWE5NGUxLWE3MmEtNDVlMC1iZGRhLTc0ZDA4MGY4NDZkZSIsInB1ciI6ImJsb2JfaWQifX0=--26237e56967c73f312ca8ddd9c1be12d6e187354/lesadultesdedemain-logo.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/001o2ytt6af9hyzxe7wdsplu9bf0
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjdmOWE5NGUxLWE3MmEtNDVlMC1iZGRhLTc0ZDA4MGY4NDZkZSIsInB1ciI6ImJsb2JfaWQifX0=--26237e56967c73f312ca8ddd9c1be12d6e187354
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdmOWE5NGUxLWE3MmEtNDVlMC1iZGRhLTc0ZDA4MGY4NDZkZSIsInB1ciI6ImJsb2JfaWQifX0=--22ac1ea3c66cf47cd2a16f122f2e1cdc03ddde22/lesadultesdedemain-logo.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/001o2ytt6af9hyzxe7wdsplu9bf0
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjdmOWE5NGUxLWE3MmEtNDVlMC1iZGRhLTc0ZDA4MGY4NDZkZSIsInB1ciI6ImJsb2JfaWQifX0=--22ac1ea3c66cf47cd2a16f122f2e1cdc03ddde22
 
