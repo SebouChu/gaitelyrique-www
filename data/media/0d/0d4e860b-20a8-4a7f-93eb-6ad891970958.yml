@@ -5,7 +5,7 @@ width: 1920
 height: 1280
 ratio: 1.5
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBkNGU4NjBiLTIwYTgtNGE3Zi05M2ViLTZhZDg5MTk3MDk1OCIsInB1ciI6ImJsb2JfaWQifX0=--b819ec4d35d1efa380f9e51f2a8858c621895a69/studio-podcast-gaite-lyrique-5-copie.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/m4ngg9t6ps9lj8ea2c8qf68vxh38
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjBkNGU4NjBiLTIwYTgtNGE3Zi05M2ViLTZhZDg5MTk3MDk1OCIsInB1ciI6ImJsb2JfaWQifX0=--b819ec4d35d1efa380f9e51f2a8858c621895a69
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBkNGU4NjBiLTIwYTgtNGE3Zi05M2ViLTZhZDg5MTk3MDk1OCIsInB1ciI6ImJsb2JfaWQifX0=--bd7816526a0f7a911a37565cb3a2d1a29522c92e/studio-podcast-gaite-lyrique-5-copie.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/m4ngg9t6ps9lj8ea2c8qf68vxh38
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjBkNGU4NjBiLTIwYTgtNGE3Zi05M2ViLTZhZDg5MTk3MDk1OCIsInB1ciI6ImJsb2JfaWQifX0=--bd7816526a0f7a911a37565cb3a2d1a29522c92e
 
