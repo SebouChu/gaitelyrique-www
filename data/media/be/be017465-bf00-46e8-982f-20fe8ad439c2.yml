@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJlMDE3NDY1LWJmMDAtNDZlOC05ODJmLTIwZmU4YWQ0MzljMiIsInB1ciI6ImJsb2JfaWQifX0=--8513a61a4f46a9176c72cc6ae54ee3ba8350b843/gaze-cineclub-audrey-diwan18-cover-2_cover.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/uzdmps3536elou9ift3p288epf2c
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImJlMDE3NDY1LWJmMDAtNDZlOC05ODJmLTIwZmU4YWQ0MzljMiIsInB1ciI6ImJsb2JfaWQifX0=--8513a61a4f46a9176c72cc6ae54ee3ba8350b843
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJlMDE3NDY1LWJmMDAtNDZlOC05ODJmLTIwZmU4YWQ0MzljMiIsInB1ciI6ImJsb2JfaWQifX0=--373919b48811df05f2122430d78a730562461ec0/gaze-cineclub-audrey-diwan18-cover-2_cover.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/uzdmps3536elou9ift3p288epf2c
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImJlMDE3NDY1LWJmMDAtNDZlOC05ODJmLTIwZmU4YWQ0MzljMiIsInB1ciI6ImJsb2JfaWQifX0=--373919b48811df05f2122430d78a730562461ec0
 
