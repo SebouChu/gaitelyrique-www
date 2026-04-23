@@ -5,7 +5,7 @@ width: 2000
 height: 1333
 ratio: 1.5003750937734435
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJjYTA2OWU0LTYzNzYtNDJkMi04YjYzLTdjMzgwZGM4MjJhNiIsInB1ciI6ImJsb2JfaWQifX0=--f455fcda609e05173eebfd485563df0eb07805f7/F-A-M-E-Remise-Prix-Teddy-Morellec_0053.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/6thzx55gifpm02ttso94l0ncj9eq
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjJjYTA2OWU0LTYzNzYtNDJkMi04YjYzLTdjMzgwZGM4MjJhNiIsInB1ciI6ImJsb2JfaWQifX0=--f455fcda609e05173eebfd485563df0eb07805f7
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJjYTA2OWU0LTYzNzYtNDJkMi04YjYzLTdjMzgwZGM4MjJhNiIsInB1ciI6ImJsb2JfaWQifX0=--9ff636c384e07219db27f6d5d00b102254c1a29d/F-A-M-E-Remise-Prix-Teddy-Morellec_0053.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/6thzx55gifpm02ttso94l0ncj9eq
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjJjYTA2OWU0LTYzNzYtNDJkMi04YjYzLTdjMzgwZGM4MjJhNiIsInB1ciI6ImJsb2JfaWQifX0=--9ff636c384e07219db27f6d5d00b102254c1a29d
 

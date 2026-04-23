@@ -5,7 +5,7 @@ width: 2048
 height: 1366
 ratio: 1.499267935578331
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4ODNjYWQyLWZlNTAtNDlmMy05ZWIzLTAyZTc3YjhjNThhNCIsInB1ciI6ImJsb2JfaWQifX0=--b9e9133c55c5fa6eca120173463462d8d3b24490/grande-salle-concert-6.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/xtvlf84i5v96i7zsqpabi9vwbip7
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4ODNjYWQyLWZlNTAtNDlmMy05ZWIzLTAyZTc3YjhjNThhNCIsInB1ciI6ImJsb2JfaWQifX0=--b9e9133c55c5fa6eca120173463462d8d3b24490
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4ODNjYWQyLWZlNTAtNDlmMy05ZWIzLTAyZTc3YjhjNThhNCIsInB1ciI6ImJsb2JfaWQifX0=--db8ac3f983cddb0de0f2c1cdc42646f6613d8ee7/grande-salle-concert-6.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/xtvlf84i5v96i7zsqpabi9vwbip7
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4ODNjYWQyLWZlNTAtNDlmMy05ZWIzLTAyZTc3YjhjNThhNCIsInB1ciI6ImJsb2JfaWQifX0=--db8ac3f983cddb0de0f2c1cdc42646f6613d8ee7
 

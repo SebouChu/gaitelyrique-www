@@ -5,7 +5,7 @@ width: 1200
 height: 800
 ratio: 1.5
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFkYmMyODE3LTE3MGItNGQ3MC1hMDZmLWExZWY1ZjQ0MDJlZCIsInB1ciI6ImJsb2JfaWQifX0=--f8ef28cc4ebd60424b3f0ec1de31a8367a48525b/remise-de-prix-gs-voyez-vous-vinciane-lebrun-8402.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ekd46nxow72pekjmgjpyifqn6dlq
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImFkYmMyODE3LTE3MGItNGQ3MC1hMDZmLWExZWY1ZjQ0MDJlZCIsInB1ciI6ImJsb2JfaWQifX0=--f8ef28cc4ebd60424b3f0ec1de31a8367a48525b
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFkYmMyODE3LTE3MGItNGQ3MC1hMDZmLWExZWY1ZjQ0MDJlZCIsInB1ciI6ImJsb2JfaWQifX0=--8a30b49fffa568b2eebbc0e42699b5defb92e3c8/remise-de-prix-gs-voyez-vous-vinciane-lebrun-8402.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ekd46nxow72pekjmgjpyifqn6dlq
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImFkYmMyODE3LTE3MGItNGQ3MC1hMDZmLWExZWY1ZjQ0MDJlZCIsInB1ciI6ImJsb2JfaWQifX0=--8a30b49fffa568b2eebbc0e42699b5defb92e3c8
 
