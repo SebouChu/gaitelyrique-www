@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjljMjZlNjE1LWRkMWYtNDVhNS1hOWJhLTA0ZWM5NmQzNWViNSIsInB1ciI6ImJsb2JfaWQifX0=--75ea7c9f6fb3aacf8e6f912843251fa32b66be85/Studio13-16_Pompidou.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/p8fmu0ohe8v7d3e2mveye3rizofg
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjljMjZlNjE1LWRkMWYtNDVhNS1hOWJhLTA0ZWM5NmQzNWViNSIsInB1ciI6ImJsb2JfaWQifX0=--75ea7c9f6fb3aacf8e6f912843251fa32b66be85
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjljMjZlNjE1LWRkMWYtNDVhNS1hOWJhLTA0ZWM5NmQzNWViNSIsInB1ciI6ImJsb2JfaWQifX0=--87c36054b938b408dd16468dab47391494341b6d/Studio13-16_Pompidou.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/p8fmu0ohe8v7d3e2mveye3rizofg
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjljMjZlNjE1LWRkMWYtNDVhNS1hOWJhLTA0ZWM5NmQzNWViNSIsInB1ciI6ImJsb2JfaWQifX0=--87c36054b938b408dd16468dab47391494341b6d
 
