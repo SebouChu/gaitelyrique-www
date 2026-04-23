@@ -5,7 +5,7 @@ width: 16000
 height: 9000
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjczYzFhOGI5LTQ1OGYtNDAyNS05ZTFlLTUwOWNhZjU3YTI5NiIsInB1ciI6ImJsb2JfaWQifX0=--ceb58bf5f35258c48de31bff4e0ad9731dc48878/ecoute-podcast-visu-site.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/i3nu49vveqxtygv3gwbf35mdx3i8
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjczYzFhOGI5LTQ1OGYtNDAyNS05ZTFlLTUwOWNhZjU3YTI5NiIsInB1ciI6ImJsb2JfaWQifX0=--ceb58bf5f35258c48de31bff4e0ad9731dc48878
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjczYzFhOGI5LTQ1OGYtNDAyNS05ZTFlLTUwOWNhZjU3YTI5NiIsInB1ciI6ImJsb2JfaWQifX0=--7c347ca642aa24ed654552a100bb28d3275e8b6e/ecoute-podcast-visu-site.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/i3nu49vveqxtygv3gwbf35mdx3i8
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjczYzFhOGI5LTQ1OGYtNDAyNS05ZTFlLTUwOWNhZjU3YTI5NiIsInB1ciI6ImJsb2JfaWQifX0=--7c347ca642aa24ed654552a100bb28d3275e8b6e
 

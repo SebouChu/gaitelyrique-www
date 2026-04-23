@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY2Nzg2OWRkLTA5ZWUtNGI5ZC1iNTAwLWVjOGQ5NmMxNWQyNSIsInB1ciI6ImJsb2JfaWQifX0=--ea49cc09570af89e63bbd89320554d97de014b4e/festivallitte-sitrweb.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/y4cn8vpmaljtwj6v622mjo64zqaq
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjY2Nzg2OWRkLTA5ZWUtNGI5ZC1iNTAwLWVjOGQ5NmMxNWQyNSIsInB1ciI6ImJsb2JfaWQifX0=--ea49cc09570af89e63bbd89320554d97de014b4e
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY2Nzg2OWRkLTA5ZWUtNGI5ZC1iNTAwLWVjOGQ5NmMxNWQyNSIsInB1ciI6ImJsb2JfaWQifX0=--a36e126dc838d9c730003afdee032ce1f544fafc/festivallitte-sitrweb.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/y4cn8vpmaljtwj6v622mjo64zqaq
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjY2Nzg2OWRkLTA5ZWUtNGI5ZC1iNTAwLWVjOGQ5NmMxNWQyNSIsInB1ciI6ImJsb2JfaWQifX0=--a36e126dc838d9c730003afdee032ce1f544fafc
 
