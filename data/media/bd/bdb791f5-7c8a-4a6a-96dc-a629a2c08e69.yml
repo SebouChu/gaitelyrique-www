@@ -5,7 +5,7 @@ width: 16000
 height: 9000
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJkYjc5MWY1LTdjOGEtNGE2YS05NmRjLWE2MjlhMmMwOGU2OSIsInB1ciI6ImJsb2JfaWQifX0=--81defaa8141aadfafde8eac99ac5f3962c1fac1f/culturequeer-2.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/jeagjzbrlpxpboypxzhcif8nk4ts
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImJkYjc5MWY1LTdjOGEtNGE2YS05NmRjLWE2MjlhMmMwOGU2OSIsInB1ciI6ImJsb2JfaWQifX0=--81defaa8141aadfafde8eac99ac5f3962c1fac1f
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJkYjc5MWY1LTdjOGEtNGE2YS05NmRjLWE2MjlhMmMwOGU2OSIsInB1ciI6ImJsb2JfaWQifX0=--c3128038f9408b021ebbee2d737818e26c1d20bd/culturequeer-2.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/jeagjzbrlpxpboypxzhcif8nk4ts
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImJkYjc5MWY1LTdjOGEtNGE2YS05NmRjLWE2MjlhMmMwOGU2OSIsInB1ciI6ImJsb2JfaWQifX0=--c3128038f9408b021ebbee2d737818e26c1d20bd
 

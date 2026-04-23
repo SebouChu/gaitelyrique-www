@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJjZDE4ZjAwLTQyZTgtNDkzYy04YjZhLWVmN2E2OWQwYjRjMyIsInB1ciI6ImJsb2JfaWQifX0=--9aac01ae22ae0af0904e083af867ba6985e4f842/gl_mb_template-IN-CONCERTS-site.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/71at322eiu89o2yxefzqrbo3kkhj
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjJjZDE4ZjAwLTQyZTgtNDkzYy04YjZhLWVmN2E2OWQwYjRjMyIsInB1ciI6ImJsb2JfaWQifX0=--9aac01ae22ae0af0904e083af867ba6985e4f842
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJjZDE4ZjAwLTQyZTgtNDkzYy04YjZhLWVmN2E2OWQwYjRjMyIsInB1ciI6ImJsb2JfaWQifX0=--2e7cb35ed3947b36288c6bffb2f165d5d2ba7baa/gl_mb_template-IN-CONCERTS-site.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/71at322eiu89o2yxefzqrbo3kkhj
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjJjZDE4ZjAwLTQyZTgtNDkzYy04YjZhLWVmN2E2OWQwYjRjMyIsInB1ciI6ImJsb2JfaWQifX0=--2e7cb35ed3947b36288c6bffb2f165d5d2ba7baa
 

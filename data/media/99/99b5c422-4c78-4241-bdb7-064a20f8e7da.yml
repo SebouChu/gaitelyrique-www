@@ -5,7 +5,7 @@ width: 16000
 height: 9000
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk5YjVjNDIyLTRjNzgtNDI0MS1iZGI3LTA2NGEyMGY4ZTdkYSIsInB1ciI6ImJsb2JfaWQifX0=--c65986089c3c9a89b462cf2dd6c64463ae7d84fd/visu-site-radio-campus-1.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/h8f8oayf18vtzvr8aheexzr60zoh
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijk5YjVjNDIyLTRjNzgtNDI0MS1iZGI3LTA2NGEyMGY4ZTdkYSIsInB1ciI6ImJsb2JfaWQifX0=--c65986089c3c9a89b462cf2dd6c64463ae7d84fd
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk5YjVjNDIyLTRjNzgtNDI0MS1iZGI3LTA2NGEyMGY4ZTdkYSIsInB1ciI6ImJsb2JfaWQifX0=--9a130e77f3c2e70b94de7df0a05cf24d3cf1fb15/visu-site-radio-campus-1.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/h8f8oayf18vtzvr8aheexzr60zoh
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijk5YjVjNDIyLTRjNzgtNDI0MS1iZGI3LTA2NGEyMGY4ZTdkYSIsInB1ciI6ImJsb2JfaWQifX0=--9a130e77f3c2e70b94de7df0a05cf24d3cf1fb15
 
