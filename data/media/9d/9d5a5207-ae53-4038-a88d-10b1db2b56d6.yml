@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlkNWE1MjA3LWFlNTMtNDAzOC1hODhkLTEwYjFkYjJiNTZkNiIsInB1ciI6ImJsb2JfaWQifX0=--c2db48d5d39a5c972e91a53cb5db0c940fb0d581/solidarite-siteweb-169.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/04nx340akmh1p9mii8xdt4n0otdd
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjlkNWE1MjA3LWFlNTMtNDAzOC1hODhkLTEwYjFkYjJiNTZkNiIsInB1ciI6ImJsb2JfaWQifX0=--c2db48d5d39a5c972e91a53cb5db0c940fb0d581
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlkNWE1MjA3LWFlNTMtNDAzOC1hODhkLTEwYjFkYjJiNTZkNiIsInB1ciI6ImJsb2JfaWQifX0=--8e7358121a4a85730a927bd2688d81e5b148faf9/solidarite-siteweb-169.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/04nx340akmh1p9mii8xdt4n0otdd
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjlkNWE1MjA3LWFlNTMtNDAzOC1hODhkLTEwYjFkYjJiNTZkNiIsInB1ciI6ImJsb2JfaWQifX0=--8e7358121a4a85730a927bd2688d81e5b148faf9
 

@@ -5,7 +5,7 @@ width: 500
 height: 500
 ratio: 1.0
 format: square
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwYWQyNmM2LWVhNzYtNDc1Mi04MmQyLTA4Y2M5ZTBhN2Q4MSIsInB1ciI6ImJsb2JfaWQifX0=--5b02cde2e367f93261c87d86a57f5a2a35f96a08/temporalogo-siteweb.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/xaut5ub6xs5cdiebjow7pdn8uw7k
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQwYWQyNmM2LWVhNzYtNDc1Mi04MmQyLTA4Y2M5ZTBhN2Q4MSIsInB1ciI6ImJsb2JfaWQifX0=--5b02cde2e367f93261c87d86a57f5a2a35f96a08
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwYWQyNmM2LWVhNzYtNDc1Mi04MmQyLTA4Y2M5ZTBhN2Q4MSIsInB1ciI6ImJsb2JfaWQifX0=--c4b29dd64a95b2dfd4e219c2edcf3b0a1ccce21d/temporalogo-siteweb.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/xaut5ub6xs5cdiebjow7pdn8uw7k
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQwYWQyNmM2LWVhNzYtNDc1Mi04MmQyLTA4Y2M5ZTBhN2Q4MSIsInB1ciI6ImJsb2JfaWQifX0=--c4b29dd64a95b2dfd4e219c2edcf3b0a1ccce21d
 
