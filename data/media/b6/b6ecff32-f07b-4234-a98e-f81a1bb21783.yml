@@ -5,7 +5,7 @@ width: 16000
 height: 9000
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI2ZWNmZjMyLWYwN2ItNDIzNC1hOThlLWY4MWExYmIyMTc4MyIsInB1ciI6ImJsb2JfaWQifX0=--a5b5b1299cc25d2b89aa3fc3a69cf3c82e17a091/visu-site-plateau-graphique-1.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/0kshg1yyyy9om0fnrm3zkr5vl16g
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImI2ZWNmZjMyLWYwN2ItNDIzNC1hOThlLWY4MWExYmIyMTc4MyIsInB1ciI6ImJsb2JfaWQifX0=--a5b5b1299cc25d2b89aa3fc3a69cf3c82e17a091
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI2ZWNmZjMyLWYwN2ItNDIzNC1hOThlLWY4MWExYmIyMTc4MyIsInB1ciI6ImJsb2JfaWQifX0=--e5924d1f9f9cbc9cbcbdc8026f95bbadd23a97de/visu-site-plateau-graphique-1.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/0kshg1yyyy9om0fnrm3zkr5vl16g
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImI2ZWNmZjMyLWYwN2ItNDIzNC1hOThlLWY4MWExYmIyMTc4MyIsInB1ciI6ImJsb2JfaWQifX0=--e5924d1f9f9cbc9cbcbdc8026f95bbadd23a97de
 
