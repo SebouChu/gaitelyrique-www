@@ -5,7 +5,7 @@ width: 500
 height: 500
 ratio: 1.0
 format: square
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk4NjE4MjYyLWZlMTUtNDE1My1hMTZiLTVjMjg5ZWUwM2M0NCIsInB1ciI6ImJsb2JfaWQifX0=--1df677621fff04913e1e7fe57bb42f6821805b08/logotropisme-siteweb.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/94rcxburf7p48l4f9pdfxw1ld523
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijk4NjE4MjYyLWZlMTUtNDE1My1hMTZiLTVjMjg5ZWUwM2M0NCIsInB1ciI6ImJsb2JfaWQifX0=--1df677621fff04913e1e7fe57bb42f6821805b08
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk4NjE4MjYyLWZlMTUtNDE1My1hMTZiLTVjMjg5ZWUwM2M0NCIsInB1ciI6ImJsb2JfaWQifX0=--2becc8b86401f80b962ef43376ecee01576a32e5/logotropisme-siteweb.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/94rcxburf7p48l4f9pdfxw1ld523
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijk4NjE4MjYyLWZlMTUtNDE1My1hMTZiLTVjMjg5ZWUwM2M0NCIsInB1ciI6ImJsb2JfaWQifX0=--2becc8b86401f80b962ef43376ecee01576a32e5
 

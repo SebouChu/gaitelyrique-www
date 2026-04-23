@@ -5,7 +5,7 @@ width: 853
 height: 853
 ratio: 1.0
 format: square
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQyNDZjNjhhLTAxMTctNDVmZi1iMmQ5LWMxOGI0MWFkNjhlYyIsInB1ciI6ImJsb2JfaWQifX0=--a5ab6d1df93454dbb2e2666362ee60d61175b53a/yadullah.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/vnyz2hfeod9towycgtfnxkex3vbr
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQyNDZjNjhhLTAxMTctNDVmZi1iMmQ5LWMxOGI0MWFkNjhlYyIsInB1ciI6ImJsb2JfaWQifX0=--a5ab6d1df93454dbb2e2666362ee60d61175b53a
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQyNDZjNjhhLTAxMTctNDVmZi1iMmQ5LWMxOGI0MWFkNjhlYyIsInB1ciI6ImJsb2JfaWQifX0=--a590df527e15088967b6c08afbd65f287e4b3af1/yadullah.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/vnyz2hfeod9towycgtfnxkex3vbr
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQyNDZjNjhhLTAxMTctNDVmZi1iMmQ5LWMxOGI0MWFkNjhlYyIsInB1ciI6ImJsb2JfaWQifX0=--a590df527e15088967b6c08afbd65f287e4b3af1
 

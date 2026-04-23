@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM2OTYxMDUwLWFjZTEtNDljNy05MzIwLTUyYTRjOTA3ZmM2NiIsInB1ciI6ImJsb2JfaWQifX0=--56326f4c0e5fea3dc329a99909b453db0e2fa1b2/vivantsedefnd-siteweb.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/cftkyq6xhsusdui80xafqy9u4f6j
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjM2OTYxMDUwLWFjZTEtNDljNy05MzIwLTUyYTRjOTA3ZmM2NiIsInB1ciI6ImJsb2JfaWQifX0=--56326f4c0e5fea3dc329a99909b453db0e2fa1b2
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM2OTYxMDUwLWFjZTEtNDljNy05MzIwLTUyYTRjOTA3ZmM2NiIsInB1ciI6ImJsb2JfaWQifX0=--b3b731d25225dc21926f887a6c07af803fedd8e4/vivantsedefnd-siteweb.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/cftkyq6xhsusdui80xafqy9u4f6j
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjM2OTYxMDUwLWFjZTEtNDljNy05MzIwLTUyYTRjOTA3ZmM2NiIsInB1ciI6ImJsb2JfaWQifX0=--b3b731d25225dc21926f887a6c07af803fedd8e4
 
