@@ -5,7 +5,7 @@ width: 8192
 height: 5464
 ratio: 1.499267935578331
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk0ZjFlYWZhLWIzMmYtNDEwMC1hNTI4LTc2OWE3NzNhMWFjMiIsInB1ciI6ImJsb2JfaWQifX0=--23596bf7e7c7fe03054edd7e84acaa895ccb049e/251018_ARTE_ET-MAINTENANT__LE-DOCK-3.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/tbxaq587vkwgme7yh0igkolwaij7
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijk0ZjFlYWZhLWIzMmYtNDEwMC1hNTI4LTc2OWE3NzNhMWFjMiIsInB1ciI6ImJsb2JfaWQifX0=--23596bf7e7c7fe03054edd7e84acaa895ccb049e
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk0ZjFlYWZhLWIzMmYtNDEwMC1hNTI4LTc2OWE3NzNhMWFjMiIsInB1ciI6ImJsb2JfaWQifX0=--10d594fd9e583526ec4bc4fe0db7054024a42cd3/251018_ARTE_ET-MAINTENANT__LE-DOCK-3.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/tbxaq587vkwgme7yh0igkolwaij7
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijk0ZjFlYWZhLWIzMmYtNDEwMC1hNTI4LTc2OWE3NzNhMWFjMiIsInB1ciI6ImJsb2JfaWQifX0=--10d594fd9e583526ec4bc4fe0db7054024a42cd3
 

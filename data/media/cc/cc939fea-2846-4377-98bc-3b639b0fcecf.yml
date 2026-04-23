@@ -5,7 +5,7 @@ width: 5565
 height: 3710
 ratio: 1.5
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNjOTM5ZmVhLTI4NDYtNDM3Ny05OGJjLTNiNjM5YjBmY2VjZiIsInB1ciI6ImJsb2JfaWQifX0=--88e9c767d17b29ea4eaba9169f556aff0d5e0472/_DSC8654_CLARA_DE_LATOUR.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/vzua97r8e7308bnot92xnn4bm1x5
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImNjOTM5ZmVhLTI4NDYtNDM3Ny05OGJjLTNiNjM5YjBmY2VjZiIsInB1ciI6ImJsb2JfaWQifX0=--88e9c767d17b29ea4eaba9169f556aff0d5e0472
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNjOTM5ZmVhLTI4NDYtNDM3Ny05OGJjLTNiNjM5YjBmY2VjZiIsInB1ciI6ImJsb2JfaWQifX0=--eab05d7841987ce3f1bfb0fcaadf94cbdad65f2f/_DSC8654_CLARA_DE_LATOUR.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/vzua97r8e7308bnot92xnn4bm1x5
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImNjOTM5ZmVhLTI4NDYtNDM3Ny05OGJjLTNiNjM5YjBmY2VjZiIsInB1ciI6ImJsb2JfaWQifX0=--eab05d7841987ce3f1bfb0fcaadf94cbdad65f2f
 

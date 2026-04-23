@@ -5,7 +5,7 @@ width: 7669
 height: 5115
 ratio: 1.4993157380254154
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBlMDcwOWQ1LTcyYjQtNGIzZi04MTMzLTdlOTg0MjJhNmExOCIsInB1ciI6ImJsb2JfaWQifX0=--d6d5b30dd3c3f032fdeb4aa875788b625c39c21f/251018_ARTE_ET-MAINTENANT__DESSOUS-DES-CARTES-57.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/twidg9uuo53pas51zobibqyhc753
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjBlMDcwOWQ1LTcyYjQtNGIzZi04MTMzLTdlOTg0MjJhNmExOCIsInB1ciI6ImJsb2JfaWQifX0=--d6d5b30dd3c3f032fdeb4aa875788b625c39c21f
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBlMDcwOWQ1LTcyYjQtNGIzZi04MTMzLTdlOTg0MjJhNmExOCIsInB1ciI6ImJsb2JfaWQifX0=--1438c0356ba71578368bfc0f0d14346c0ae0293e/251018_ARTE_ET-MAINTENANT__DESSOUS-DES-CARTES-57.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/twidg9uuo53pas51zobibqyhc753
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjBlMDcwOWQ1LTcyYjQtNGIzZi04MTMzLTdlOTg0MjJhNmExOCIsInB1ciI6ImJsb2JfaWQifX0=--1438c0356ba71578368bfc0f0d14346c0ae0293e
 
