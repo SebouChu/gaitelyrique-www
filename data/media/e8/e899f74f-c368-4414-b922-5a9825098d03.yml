@@ -5,7 +5,7 @@ width: 1980
 height: 1320
 ratio: 1.5
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU4OTlmNzRmLWMzNjgtNDQxNC1iOTIyLTVhOTgyNTA5OGQwMyIsInB1ciI6ImJsb2JfaWQifX0=--cd16ecbb8bf027e663beec62b6288f8a5e5d6f32/Marianne-Pubill_makesense_Gaite-Lyrique_Amour-19.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/7dozy2v0fv8hmybp1b9ur1eolqss
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImU4OTlmNzRmLWMzNjgtNDQxNC1iOTIyLTVhOTgyNTA5OGQwMyIsInB1ciI6ImJsb2JfaWQifX0=--cd16ecbb8bf027e663beec62b6288f8a5e5d6f32
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU4OTlmNzRmLWMzNjgtNDQxNC1iOTIyLTVhOTgyNTA5OGQwMyIsInB1ciI6ImJsb2JfaWQifX0=--1941a103a7ba4efb8eb4b7faca4cfe2f212fd442/Marianne-Pubill_makesense_Gaite-Lyrique_Amour-19.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/7dozy2v0fv8hmybp1b9ur1eolqss
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImU4OTlmNzRmLWMzNjgtNDQxNC1iOTIyLTVhOTgyNTA5OGQwMyIsInB1ciI6ImJsb2JfaWQifX0=--1941a103a7ba4efb8eb4b7faca4cfe2f212fd442
 

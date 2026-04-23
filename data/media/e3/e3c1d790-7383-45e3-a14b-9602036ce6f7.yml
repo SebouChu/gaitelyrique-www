@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUzYzFkNzkwLTczODMtNDVlMy1hMTRiLTk2MDIwMzZjZTZmNyIsInB1ciI6ImJsb2JfaWQifX0=--03a8af37665e67a4b91b713c71b01f5a037dfaec/j4-effractions.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/3j4apd950ztknffa1u2ddyet1mht
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImUzYzFkNzkwLTczODMtNDVlMy1hMTRiLTk2MDIwMzZjZTZmNyIsInB1ciI6ImJsb2JfaWQifX0=--03a8af37665e67a4b91b713c71b01f5a037dfaec
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUzYzFkNzkwLTczODMtNDVlMy1hMTRiLTk2MDIwMzZjZTZmNyIsInB1ciI6ImJsb2JfaWQifX0=--f749056c67a14b1fccd64a5f6af4aaa90969c001/j4-effractions.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/3j4apd950ztknffa1u2ddyet1mht
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImUzYzFkNzkwLTczODMtNDVlMy1hMTRiLTk2MDIwMzZjZTZmNyIsInB1ciI6ImJsb2JfaWQifX0=--f749056c67a14b1fccd64a5f6af4aaa90969c001
 
