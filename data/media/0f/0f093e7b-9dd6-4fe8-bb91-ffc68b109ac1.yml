@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBmMDkzZTdiLTlkZDYtNGZlOC1iYjkxLWZmYzY4YjEwOWFjMSIsInB1ciI6ImJsb2JfaWQifX0=--3a7f1610fd691372a73caef3b60a6d126932f46b/guillaumeblot-mains-gouvernance.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/5exy93ewf82c0ng3owjlu8ql9j15
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjBmMDkzZTdiLTlkZDYtNGZlOC1iYjkxLWZmYzY4YjEwOWFjMSIsInB1ciI6ImJsb2JfaWQifX0=--3a7f1610fd691372a73caef3b60a6d126932f46b
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBmMDkzZTdiLTlkZDYtNGZlOC1iYjkxLWZmYzY4YjEwOWFjMSIsInB1ciI6ImJsb2JfaWQifX0=--79772fac682202adbf29146b1df408dd08f9e408/guillaumeblot-mains-gouvernance.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/5exy93ewf82c0ng3owjlu8ql9j15
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjBmMDkzZTdiLTlkZDYtNGZlOC1iYjkxLWZmYzY4YjEwOWFjMSIsInB1ciI6ImJsb2JfaWQifX0=--79772fac682202adbf29146b1df408dd08f9e408
 

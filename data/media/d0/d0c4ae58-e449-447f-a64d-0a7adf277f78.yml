@@ -5,7 +5,7 @@ width: 1500
 height: 1000
 ratio: 1.5
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwYzRhZTU4LWU0NDktNDQ3Zi1hNjRkLTBhN2FkZjI3N2Y3OCIsInB1ciI6ImJsb2JfaWQifX0=--3912b1a0b31bf434de7e0947406f8119101fe3ed/2024-06-21_Cha_Gonzalez-2977.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/x0f3bl1w7g0rrge8jk783m01500i
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQwYzRhZTU4LWU0NDktNDQ3Zi1hNjRkLTBhN2FkZjI3N2Y3OCIsInB1ciI6ImJsb2JfaWQifX0=--3912b1a0b31bf434de7e0947406f8119101fe3ed
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwYzRhZTU4LWU0NDktNDQ3Zi1hNjRkLTBhN2FkZjI3N2Y3OCIsInB1ciI6ImJsb2JfaWQifX0=--eb9fb110f67ce738a0da2d6b1e86cca9c5fb9c5e/2024-06-21_Cha_Gonzalez-2977.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/x0f3bl1w7g0rrge8jk783m01500i
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQwYzRhZTU4LWU0NDktNDQ3Zi1hNjRkLTBhN2FkZjI3N2Y3OCIsInB1ciI6ImJsb2JfaWQifX0=--eb9fb110f67ce738a0da2d6b1e86cca9c5fb9c5e
 
