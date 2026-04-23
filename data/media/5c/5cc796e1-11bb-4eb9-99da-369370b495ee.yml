@@ -5,7 +5,7 @@ width: 2048
 height: 1365
 ratio: 1.5003663003663004
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjYzc5NmUxLTExYmItNGViOS05OWRhLTM2OTM3MGI0OTVlZSIsInB1ciI6ImJsb2JfaWQifX0=--fb74dfc0c21f68fa6850ebda5e252da447daa14e/CARHARTT-ESPIONNAGE_v0-lou_bet-3.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/w6nwl64js6ejgnp0vcciz7hp33ra
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjVjYzc5NmUxLTExYmItNGViOS05OWRhLTM2OTM3MGI0OTVlZSIsInB1ciI6ImJsb2JfaWQifX0=--fb74dfc0c21f68fa6850ebda5e252da447daa14e
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjYzc5NmUxLTExYmItNGViOS05OWRhLTM2OTM3MGI0OTVlZSIsInB1ciI6ImJsb2JfaWQifX0=--9e9f60eb6283af263743aaea42ba72fb2b9c007e/CARHARTT-ESPIONNAGE_v0-lou_bet-3.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/w6nwl64js6ejgnp0vcciz7hp33ra
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjVjYzc5NmUxLTExYmItNGViOS05OWRhLTM2OTM3MGI0OTVlZSIsInB1ciI6ImJsb2JfaWQifX0=--9e9f60eb6283af263743aaea42ba72fb2b9c007e
 

@@ -5,7 +5,7 @@ width: 1920
 height: 1280
 ratio: 1.5
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJhYmMzY2E2LTU1MWEtNDJhOC1hMDZjLTE0MWYwM2Y3MTY4YSIsInB1ciI6ImJsb2JfaWQifX0=--c84ae79bca141e52b65323e633cd674e2fb339e3/1664_A_La_French_04_07_24_096.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/yma7bfkv8nhdpdbmrh48otjv4dbn
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImJhYmMzY2E2LTU1MWEtNDJhOC1hMDZjLTE0MWYwM2Y3MTY4YSIsInB1ciI6ImJsb2JfaWQifX0=--c84ae79bca141e52b65323e633cd674e2fb339e3
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJhYmMzY2E2LTU1MWEtNDJhOC1hMDZjLTE0MWYwM2Y3MTY4YSIsInB1ciI6ImJsb2JfaWQifX0=--48ac5171972616c9c77fc0f793823174d1ae18d2/1664_A_La_French_04_07_24_096.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/yma7bfkv8nhdpdbmrh48otjv4dbn
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImJhYmMzY2E2LTU1MWEtNDJhOC1hMDZjLTE0MWYwM2Y3MTY4YSIsInB1ciI6ImJsb2JfaWQifX0=--48ac5171972616c9c77fc0f793823174d1ae18d2
 
