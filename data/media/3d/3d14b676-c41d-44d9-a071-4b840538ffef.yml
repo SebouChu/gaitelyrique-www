@@ -5,7 +5,7 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkMTRiNjc2LWM0MWQtNDRkOS1hMDcxLTRiODQwNTM4ZmZlZiIsInB1ciI6ImJsb2JfaWQifX0=--5c4e5663ae562788ff85633824f722e6f081ed3b/arteradio-siteweb_cover.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/4h2a9vqsulmqjppsrqeunbch0k55
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjNkMTRiNjc2LWM0MWQtNDRkOS1hMDcxLTRiODQwNTM4ZmZlZiIsInB1ciI6ImJsb2JfaWQifX0=--5c4e5663ae562788ff85633824f722e6f081ed3b
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkMTRiNjc2LWM0MWQtNDRkOS1hMDcxLTRiODQwNTM4ZmZlZiIsInB1ciI6ImJsb2JfaWQifX0=--0e63341380f60d5e467f6ffc6a1dbb9d79ac48c6/arteradio-siteweb_cover.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/4h2a9vqsulmqjppsrqeunbch0k55
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjNkMTRiNjc2LWM0MWQtNDRkOS1hMDcxLTRiODQwNTM4ZmZlZiIsInB1ciI6ImJsb2JfaWQifX0=--0e63341380f60d5e467f6ffc6a1dbb9d79ac48c6
 
