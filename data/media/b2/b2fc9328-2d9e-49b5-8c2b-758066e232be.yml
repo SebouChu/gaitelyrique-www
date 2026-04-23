@@ -5,7 +5,7 @@ width: 2017
 height: 1153
 ratio: 1.7493495229835212
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImIyZmM5MzI4LTJkOWUtNDliNS04YzJiLTc1ODA2NmUyMzJiZSIsInB1ciI6ImJsb2JfaWQifX0=--4c79b13489a5359e6cbe873f6d6062f0dad4ef5e/logo_festival_nero.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/lhw5m9ajgo2xc2jtzk3s2nlbuoag
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImIyZmM5MzI4LTJkOWUtNDliNS04YzJiLTc1ODA2NmUyMzJiZSIsInB1ciI6ImJsb2JfaWQifX0=--4c79b13489a5359e6cbe873f6d6062f0dad4ef5e
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImIyZmM5MzI4LTJkOWUtNDliNS04YzJiLTc1ODA2NmUyMzJiZSIsInB1ciI6ImJsb2JfaWQifX0=--5c238dfba2b81af5d6cfcb6d50b9c285f7a51586/logo_festival_nero.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/lhw5m9ajgo2xc2jtzk3s2nlbuoag
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImIyZmM5MzI4LTJkOWUtNDliNS04YzJiLTc1ODA2NmUyMzJiZSIsInB1ciI6ImJsb2JfaWQifX0=--5c238dfba2b81af5d6cfcb6d50b9c285f7a51586
 

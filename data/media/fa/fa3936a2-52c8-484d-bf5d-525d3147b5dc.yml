@@ -5,7 +5,7 @@ width: 1200
 height: 675
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZhMzkzNmEyLTUyYzgtNDg0ZC1iZjVkLTUyNWQzMTQ3YjVkYyIsInB1ciI6ImJsb2JfaWQifX0=--1f0f9aad3b0825142c2b2cadd6c70eaf99c970e4/NUNCA-FUIMOS-UN-DESIERTO-film-image.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ym38bky5nmmj709wkx23rdcfvzdu
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImZhMzkzNmEyLTUyYzgtNDg0ZC1iZjVkLTUyNWQzMTQ3YjVkYyIsInB1ciI6ImJsb2JfaWQifX0=--1f0f9aad3b0825142c2b2cadd6c70eaf99c970e4
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZhMzkzNmEyLTUyYzgtNDg0ZC1iZjVkLTUyNWQzMTQ3YjVkYyIsInB1ciI6ImJsb2JfaWQifX0=--5a9d996c41e9cfa7988820ff284e03095ba89789/NUNCA-FUIMOS-UN-DESIERTO-film-image.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ym38bky5nmmj709wkx23rdcfvzdu
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImZhMzkzNmEyLTUyYzgtNDg0ZC1iZjVkLTUyNWQzMTQ3YjVkYyIsInB1ciI6ImJsb2JfaWQifX0=--5a9d996c41e9cfa7988820ff284e03095ba89789
 
