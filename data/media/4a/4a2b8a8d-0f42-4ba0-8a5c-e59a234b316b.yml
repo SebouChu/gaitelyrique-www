@@ -5,7 +5,7 @@ width: 1024
 height: 706
 ratio: 1.4504249291784703
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRhMmI4YThkLTBmNDItNGJhMC04YTVjLWU1OWEyMzRiMzE2YiIsInB1ciI6ImJsb2JfaWQifX0=--c395a91bd9453dfa68de8db18a95e5968a1c92b4/Epop-compoFull-vert.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/f5ngts6y95nfav5cpx9gr46cqflf
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjRhMmI4YThkLTBmNDItNGJhMC04YTVjLWU1OWEyMzRiMzE2YiIsInB1ciI6ImJsb2JfaWQifX0=--c395a91bd9453dfa68de8db18a95e5968a1c92b4
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRhMmI4YThkLTBmNDItNGJhMC04YTVjLWU1OWEyMzRiMzE2YiIsInB1ciI6ImJsb2JfaWQifX0=--c45c639083f18191d5f95987bec58533bf741fa5/Epop-compoFull-vert.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/f5ngts6y95nfav5cpx9gr46cqflf
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjRhMmI4YThkLTBmNDItNGJhMC04YTVjLWU1OWEyMzRiMzE2YiIsInB1ciI6ImJsb2JfaWQifX0=--c45c639083f18191d5f95987bec58533bf741fa5
 
