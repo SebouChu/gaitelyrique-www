@@ -5,7 +5,7 @@ width: 16000
 height: 9000
 ratio: 1.7777777777777777
 format: landscape
-url: https://gaitelyrique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNiYzlmZDQwLTQ2YTYtNDc0OS05YTQ2LWIxZTcwMTA5OGUyMCIsInB1ciI6ImJsb2JfaWQifX0=--73bcd19ada81e1f74e9ceaf6a2f268f62884a89d/visu-site-la-chorba-3.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/gd6pikm16t5fndl8qarszyu5d9fq
-download_url: https://gaitelyrique.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImNiYzlmZDQwLTQ2YTYtNDc0OS05YTQ2LWIxZTcwMTA5OGUyMCIsInB1ciI6ImJsb2JfaWQifX0=--73bcd19ada81e1f74e9ceaf6a2f268f62884a89d
+url: http://gaitelyrique.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNiYzlmZDQwLTQ2YTYtNDc0OS05YTQ2LWIxZTcwMTA5OGUyMCIsInB1ciI6ImJsb2JfaWQifX0=--14690f4d8ca62d672bf135bdf9c6e56ceea19b1b/visu-site-la-chorba-3.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/gd6pikm16t5fndl8qarszyu5d9fq
+download_url: http://gaitelyrique.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImNiYzlmZDQwLTQ2YTYtNDc0OS05YTQ2LWIxZTcwMTA5OGUyMCIsInB1ciI6ImJsb2JfaWQifX0=--14690f4d8ca62d672bf135bdf9c6e56ceea19b1b
 
